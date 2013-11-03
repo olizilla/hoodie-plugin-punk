@@ -1,0 +1,23 @@
+{
+  "name": "hoodie-plugin-punk",
+  "version": "0.1.0",
+  "description": "A global hoodie store with no rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "say punk is dead"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olizilla/hoodie-plugin-punk"
+  },
+  "keywords": [
+    "hoodie",
+    "store",
+    "admin party"
+  ],
+  "author": "olizilla",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/olizilla/hoodie-plugin-punk/issues"
+  }
+}
