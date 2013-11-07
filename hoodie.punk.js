@@ -4,4 +4,5 @@
  */ 
 Hoodie.extend(function (hoodie) {
   hoodie.punk = hoodie.open('hoodie-plugin-punk');
+  hoodie.punk.connect();
 });
