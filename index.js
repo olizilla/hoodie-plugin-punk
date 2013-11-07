@@ -4,7 +4,7 @@
  * - Enables public write access on `hoodie-plugin-punk`
  */
 module.exports = function (hoodie, cb) {
-  
+
   hoodie.database.add('hoodie-plugin-punk', function (err, db) {
     
     if (err && err.error === 'file_exists'){
@@ -13,7 +13,7 @@ module.exports = function (hoodie, cb) {
     }
 
     if (err) {
-      // Some other fail occured.
+      // Some other fail occurred.
       return cb(err);
     }
 

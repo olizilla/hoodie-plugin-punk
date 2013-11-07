@@ -1,6 +1,6 @@
 {
   "name": "hoodie-plugin-punk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A global hoodie store with no rules",
   "main": "index.js",
   "scripts": {
