@@ -10,9 +10,9 @@
 hoodie-plugin-punk
 ==================
 
-`hoodie.punk` **Do you feel lucky?**
+**Do you feel lucky?**
 
-A global `hoodie.store` with no rules.
+`hoodie install punk` gets you a global `hoodie.store` with no rules.
 
 You can add and find things just like a regular store:
 
