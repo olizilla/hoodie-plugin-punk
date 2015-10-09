@@ -21,6 +21,6 @@
     "url": "https://github.com/olizilla/hoodie-plugin-punk/issues"
   },
   "peerDependencies": {
-    "hoodie-server": "~0.8.14"
+    "hoodie-server": "^4.0.3"
   }
 }
